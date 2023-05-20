@@ -51,7 +51,7 @@ for i in range(1, 3001):
             print(loss)
 
 model.save("model.h5")
-def PENIS(path:str) -> dict:
+def PREDICT(path:str) -> dict:
     images = YOLO_predict(path)
     FINAL_model = tf.keras.models.load_model("model.h5")
     res = {"кликун":0, "малый":0, "щипун":0}
@@ -60,4 +60,4 @@ def PENIS(path:str) -> dict:
         res[names[np.argmax(FINAL_model.predict(np.expand_dims(cv2.resize(image, (800, 400)), axis=0)))]] += 1
     return res 
 
-print(PENIS("klikun/images/2969.jpg"))
+print(PREDICT("klikun/images/2969.jpg"))
