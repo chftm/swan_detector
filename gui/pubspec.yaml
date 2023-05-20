@@ -1,0 +1,52 @@
+name: swan_classifier
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.1 <4.0.0"
+
+dependencies:
+  bloc_concurrency: ^0.2.1
+  csv: ^5.0.2
+  desktop_window: ^0.4.0
+  dotted_border: ^2.0.0+3
+  file_saver: ^0.2.2
+  filesize: ^2.0.1
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  pie_chart: ^5.3.2
+  super_drag_and_drop: ^0.3.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  merch_lints: ^1.1.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/drop.png
+    - assets/icons/folder.png
+
+  fonts:
+    - family: Unbounded
+      fonts:
+        - asset: assets/fonts/Unbounded/Unbounded-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/Unbounded/Unbounded-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Unbounded/Unbounded-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Unbounded/Unbounded-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Unbounded/Unbounded-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/Unbounded/Unbounded-Black.ttf
+          weight: 700
+    - family: PTMonoBold
+      fonts:
+        - asset: assets/fonts/PTMonoBold/PtMonoBold.ttf

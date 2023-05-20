@@ -1,0 +1,7 @@
+include: package:merch_lints/analysis_options.yaml
+
+dart_code_metrics:
+  rules:
+    - no-magic-number: false
+    - avoid-ignoring-return-values: false
+    - no-equal-arguments: false
