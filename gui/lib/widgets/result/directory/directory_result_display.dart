@@ -15,6 +15,7 @@ class DirectoryResultDisplay extends StatelessWidget {
 
     return DashedBorder(
       child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text(
             '''
@@ -29,6 +30,7 @@ class DirectoryResultDisplay extends StatelessWidget {
               fontSize: 20,
               fontFamily: 'PTMonoBold',
             ),
+            textAlign: TextAlign.center,
           ),
           const CsvExportButton(),
         ],
