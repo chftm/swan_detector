@@ -17,6 +17,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.2
+  flutter_svg: ^2.0.6
   pie_chart: ^5.3.2
   super_drag_and_drop: ^0.3.0+2
 
@@ -31,6 +32,7 @@ flutter:
   assets:
     - assets/icons/drop.png
     - assets/icons/folder.png
+    - assets/icons/logo.svg
 
   fonts:
     - family: Unbounded

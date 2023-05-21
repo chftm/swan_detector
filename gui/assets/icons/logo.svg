@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="42.041729mm"
+   height="36.02552mm"
+   viewBox="0 0 42.041729 36.02552"
+   version="1.1"
+   id="svg1097"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="60.416168"
+   inkscape:export-ydpi="60.416168"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1099"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs1094" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.567296,-100.57879)">
+    <path
+       class="cls-2"
+       d="m 75.857914,112.02219 -7.55385,10.98286 a 0.73554166,0.73554166 0 0 0 0.58208,1.18798 l 4.3815,0.52916 a 1.254125,1.254125 0 0 1 1.09009,1.41817 l -1.18534,8.42169 a 0.63764583,0.63764583 0 0 0 1.12977,0.49212 l 10.86115,-12.80583 a 0.73554166,0.73554166 0 0 0 -0.57679,-1.19063 l -3.48986,-0.0847 a 1.7383125,1.7383125 0 0 1 -1.54516,-2.45004 l 5.31812,-11.88509 c 0,0 -10.62037,-5.66473 -13.208,-4.54289 -2.58762,1.12183 -1.21179,7.07496 -5.461,7.11994 -4.24921,0.045 -3.54806,-4.88157 -5.39221,-6.63046 -1.84414,-1.7489 -14.36422,7.04056 -14.36422,7.04056 0.68791,0.9181 3.50308,5.95577 4.14602,7.52475 0,0 3.96875,-0.94721 6.24681,-0.7276 1.76212,4.49791 1.19592,18.78541 1.19592,18.78541 l 11.6152,-0.0317"
+       id="path8"
+       inkscape:export-filename="logo.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="fill:none;stroke:#21dd83;stroke-width:2.64583px;stroke-miterlimit:10" />
+  </g>
+</svg>
