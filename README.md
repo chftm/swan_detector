@@ -10,7 +10,7 @@
 	- [PIL](https://pypi.org/project/Pillow/)
 	- [cv2](https://pypi.org/project/opencv-python/)
 	- [tensorflow](https://www.tensorflow.org/?hl=ru)
- - [ultralytics](https://ultralytics.com)
+	- [ultralytics](https://ultralytics.com)
 - Flutter
 
 ## Для запуска нужно ✨
