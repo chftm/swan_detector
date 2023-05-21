@@ -272,6 +272,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flython:
+    dependency: "direct main"
+    description:
+      name: flython
+      sha256: c315d960efe337e2dbc9bf4dffb9571ebcf8c3c281a5a8624a569aa8bc545bd8
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.0"
   glob:
     dependency: transitive
     description:
@@ -392,6 +400,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  mutex:
+    dependency: transitive
+    description:
+      name: mutex
+      sha256: "03116a4e46282a671b46c12de649d72c0ed18188ffe12a8d0fc63e83f4ad88f4"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.1"
   nested:
     dependency: transitive
     description:
