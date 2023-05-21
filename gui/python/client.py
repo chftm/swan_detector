@@ -11,6 +11,7 @@ CMD_PREDICT = 1
 
 
 def run(command):
+    print(type(command))
     if command["cmd"] == CMD_SYS_VERSION:
         return {
             "sys.version": sys.version,
@@ -32,8 +33,11 @@ if __name__ == "__main__":
     stream_end = f"`S`T`R`E`A`M`{args.uuid}`E`N`D`"
     while True:
         cmd = input()
+        print("GOT CMD")
         print(cmd)
         cmd = json.loads(cmd)
+        cmd = json.loads(cmd)
+        print(cmd)
         try:
             result = run(cmd)
         except Exception as e:
