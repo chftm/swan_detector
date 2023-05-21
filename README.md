@@ -14,7 +14,7 @@
 
 ## Для запуска нужно ✨
 
-- Установить Python(https://python.org/)
+- Установить [Python](https://python.org/)
 - Установить библиотеки:
     `pip install ultralytics tensorflow numpy opencv-python`
 - Скачать архив из раздела [releases](https://github.com/chftm/swan_classifier/releases)
