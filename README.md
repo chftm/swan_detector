@@ -12,9 +12,14 @@
 	- [tensorflow](https://www.tensorflow.org/?hl=ru)
 - Flutter
 
-## Перед запуском нужно ✨
+## Для запуска нужно ✨
 
-Нужно скачать наше приложение.
+- Установить Python (https://python.org/)
+- Установить библиотеки:
+    `pip install ultralytics tensorflow numpy opencv-python`
+- Скачать архив из раздела [releases](https://github.com/chftm/swan_classifier/releases)
+- Распаковать архив
+- Запустить программу
 
 ## Как работает приложение? ⚙
 
