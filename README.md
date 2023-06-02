@@ -1,3 +1,5 @@
+![Статус проекта: Почти Закончен](https://raw.githubusercontent.com/chftm/brand/main/Project%20Status/almost_finished.svg)
+
 # swan_detector
 ## О программе 🌐
 
