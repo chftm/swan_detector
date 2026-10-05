@@ -50,10 +50,10 @@
  
 [UltraGeoPro1966](https://github.com/Ultrageopro1966) - разработка ИИ
 
+[SokolLonely](https://github.com/SokolLonely) - обучение моделей и разметка данных
+
 [sh1sha](https://github.com/onl1yw) - дизайн UI
 
 [flexagoon](https://github.com/flexagoon) - разработка UI и обучение ИИ
 
 [FoxFil](https://github.com/FoxFil) - помощь в дизайне UI и разработке ИИ
-
-[SokolLonely](https://github.com/SokolLonely)
