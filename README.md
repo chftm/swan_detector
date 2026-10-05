@@ -55,3 +55,5 @@
 [flexagoon](https://github.com/flexagoon) - разработка UI и обучение ИИ
 
 [FoxFil](https://github.com/FoxFil) - помощь в дизайне UI и разработке ИИ
+
+[SokolLonely](https://github.com/SokolLonely)
